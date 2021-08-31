@@ -1,7 +1,0 @@
-#!bin/zsh
-
-git add .
-git commit -m "added new walls"
-git push
-
-
